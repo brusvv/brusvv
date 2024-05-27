@@ -13,3 +13,5 @@
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=lestatik">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=lestatik" alt="Data Card for Spotify">
 </a>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lestatik&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=lestatik&redirect=true)
